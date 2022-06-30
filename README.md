@@ -1,6 +1,6 @@
-<h1 align="center"><a href="https://github.com/byteblogs168/plumemo-admin" target="_blank">plumemo-admin</a></h1>
+<h1 align="center"><a href="https://github.com/sabarku/hello-blog-admin" target="_blank">hello-blog-admin</a></h1>
 
-> [Plumemo](https://www.plumemo.com/) 是一个轻量、易用、前后端分离的博客系统，为了解除开发人员对后端的束缚，真正做到的一个面向接口开发的博客系统。
+> [hello-blog](https://www.plumemo.com/) 是一个轻量、易用、前后端分离的博客系统，为了解除开发人员对后端的束缚，真正做到的一个面向接口开发的博客系统。
 
 ------------------------------
 
